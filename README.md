@@ -1,4 +1,4 @@
-# css-transition-and-animation-playground
+# CSS playground
 
 ## 12 Principles of Animation
 
