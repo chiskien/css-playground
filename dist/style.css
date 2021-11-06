@@ -1,2 +1,9 @@
-/*This is only for root page*/
+.container {
+  width: 100%;
+  margin-right: auto;
+  margin-left: auto;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
 /*# sourceMappingURL=style.css.map */
