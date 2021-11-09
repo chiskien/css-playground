@@ -10,3 +10,24 @@
 ### Anticipation:
 
 - User must anticipate or expect a change before it actually occurs
+- On the web, it could be a button depression before the start of the more extensive animation that starts when the button is selected
+
+### Staging
+
+### Straight ahead action and pose to pose
+
+### Follow-through and overlapping aciton
+
+### Slow in and slow out
+
+### Secondary action
+
+### Arcs
+
+### Timing
+
+### Exaggeration
+
+### Solid drawing
+
+### Appeal
