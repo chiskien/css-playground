@@ -1,5 +1,8 @@
 # CSS playground
 
+- A Collection of CSS solutions
+- CSS Transition and animation
+
 ## 12 Principles of Animation
 
 ### Squash and Strech:
